@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+/*!
+  TODO:
+  - ${1:First todo item}
+  - ${2:Second todo item}
+  */
+]]></content>
+  <tabTrigger>commtd</tabTrigger>
+  <description>Comment - Todo</description>
+</snippet>

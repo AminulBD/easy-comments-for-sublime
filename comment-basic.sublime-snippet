@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+/* ${1:Comment} */
+$2
+]]></content>
+  <tabTrigger>comm</tabTrigger>
+  <description>Comment - Basic</description>
+</snippet>

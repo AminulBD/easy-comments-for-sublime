@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+<!--===================${1/./=/g}-->
+<!--=        ${1:Section header}         =-->
+<!--===================${1/./=/g}-->
+$2
+]]></content>
+  <tabTrigger>commhsh</tabTrigger>
+  <scope>text.html</scope>
+  <description>Comment HTML - Section Header</description>
+</snippet>

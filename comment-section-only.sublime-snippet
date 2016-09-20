@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+/*!----------------------------------------------
+  # ${1:Section Name}
+  ---------------------------------------------*/
+$2
+]]></content>
+  <tabTrigger>commso</tabTrigger>
+  <description>Comment - Section Only</description>
+</snippet>

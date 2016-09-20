@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+/*=========  ${1:Section footer}  ==========*/
+]]></content>
+  <tabTrigger>commsf</tabTrigger>
+  <description>Comment - Section</description>
+</snippet>
