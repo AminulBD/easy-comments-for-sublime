@@ -6,7 +6,7 @@
 	# ${1:Section}
 		## ${2:Sub Section}
 		### ${3:Sub Sub Section}
-	## ${4:Sub Section}
+	# ${4:Section}
   # ${5:Section}
   ---------------------------------------------*/
 ]]></content>
