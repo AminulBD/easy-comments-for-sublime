@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-/*!
+/*
   TODO:
   - ${1:First todo item}
   - ${2:Second todo item}
