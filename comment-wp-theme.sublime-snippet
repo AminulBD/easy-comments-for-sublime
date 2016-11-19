@@ -10,7 +10,7 @@
   License: ${7:GNU General Public License v2 or later}
   License URI: ${8:http://www.gnu.org/licenses/gpl-2.0.html}
   Text Domain: ${9:THEME_DOMAIN}
-  Tags: ${10:THEME_DOMAIN}
+  Tags: ${10:TAGS}
   */
  
 $11
