@@ -1,17 +1,17 @@
 <snippet>
   <content><![CDATA[
 /*!
-  Theme Name: ${1:THEME_NAME}
-  Theme URI: ${2:http://your-theme-uri.tld/}
-  Author: ${3:AUTHOR_NAME}
-  Author URI: ${4:http://author-uri.tld/}
-  Description: ${5:THEME_DESCRIPTION}
-  Version: ${6:1.0.0}
-  License: ${7:GNU General Public License v2 or later}
-  License URI: ${8:http://www.gnu.org/licenses/gpl-2.0.html}
-  Text Domain: ${9:THEME_DOMAIN}
-  Tags: ${10:TAGS}
-  */
+Theme Name: ${1:THEME_NAME}
+Theme URI: ${2:http://your-theme-uri.tld/}
+Author: ${3:AUTHOR_NAME}
+Author URI: ${4:http://author-uri.tld/}
+Description: ${5:THEME_DESCRIPTION}
+Version: ${6:1.0.0}
+License: ${7:GNU General Public License v2 or later}
+License URI: ${8:http://www.gnu.org/licenses/gpl-2.0.html}
+Text Domain: ${9:THEME_DOMAIN}
+Tags: ${10:TAGS}
+*/
  
 $11
 ]]></content>

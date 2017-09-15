@@ -1,14 +1,14 @@
 <snippet>
   <content><![CDATA[
-/*-----------------------------------------------
-  >>> TABLE OF CONTENTS:
-  -----------------------------------------------
-	# ${1:Section}
-		## ${2:Sub Section}
-		### ${3:Sub Sub Section}
-	# ${4:Section}
-  # ${5:Section}
-  ---------------------------------------------*/
+/*---------------------------------------------
+>>> TABLE OF CONTENTS:
+-----------------------------------------------
+# ${1:Section}
+	## ${2:Sub Section}
+	### ${3:Sub Sub Section}
+# ${4:Section}
+# ${5:Section}
+---------------------------------------------*/
 ]]></content>
   <tabTrigger>commtoc</tabTrigger>
   <description>Comment - Table of content</description>

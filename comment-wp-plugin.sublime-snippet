@@ -1,17 +1,17 @@
 <snippet>
   <content><![CDATA[
 /*!
-  Plugin Name: ${1:PLUGIN_NAME}
-  Plugin URI: ${2:PLUGIN_URI}
-  Description: ${3:PLUGIN_DESCRIPTION}
-  Version: ${4:PLUGIN_VERSION}
-  Author: ${5:PLUGIN_AUTHOR}
-  Author URI: ${6:http://author-uri.tld}
-  License: ${7:GNU General Public License v2 or later}
-  License URI: ${8:http://www.gnu.org/licenses/gpl-2.0.html}
-  Text Domain: ${9:PLUGIN_DOMAIN}
-  Domain Path: ${10:/languages}
-  */
+Plugin Name: ${1:PLUGIN_NAME}
+Plugin URI: ${2:PLUGIN_URI}
+Description: ${3:PLUGIN_DESCRIPTION}
+Version: ${4:PLUGIN_VERSION}
+Author: ${5:PLUGIN_AUTHOR}
+Author URI: ${6:http://author-uri.tld}
+License: ${7:GNU General Public License v2 or later}
+License URI: ${8:http://www.gnu.org/licenses/gpl-2.0.html}
+Text Domain: ${9:PLUGIN_DOMAIN}
+Domain Path: ${10:/languages}
+*/
  
 $11
 ]]></content>
